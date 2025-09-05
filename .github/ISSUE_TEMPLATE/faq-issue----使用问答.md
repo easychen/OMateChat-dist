@@ -1,5 +1,5 @@
 ---
-name: FAQ issue template
+name: FAQ issue  ｜ 使用问答
 about: ask questiones and will answered by ai
 title: ''
 labels: ''
