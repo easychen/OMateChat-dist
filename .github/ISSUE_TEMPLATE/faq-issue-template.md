@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+[FAQ]
+
 **Question**
 A clear and concise question you'd like to see in the FAQ.
 
