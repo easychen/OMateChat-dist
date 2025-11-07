@@ -25,6 +25,13 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Application Version**
+- Please provide the application version on the About page. Include both the version and build numbers, for example, 1.7.1 build 177.
+- We do not provide support for bugs occurring in versions older than the most recent 5 releases. Please upgrade to the latest version and reproduce the bug before submitting your report.
+
+**Chat Mode**
+- Is the agent mode enabled in the API?
+
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
@@ -62,6 +69,9 @@ Add any other context about the problem here.
 **应用版本**
 - 请提供关于页面的应用版本。包括版本以及 buid，比如 1.7.1 build 177
 - 我们不为使用最近 5 个版本以前的 bug 提供支持，请先升级到最新版以后，重现 bug 再提交。
+
+** 聊天模式 **
+- 是否在 api 中开启了 agent 模式
 
 **桌面设备（请提供以下信息）：**
 - 操作系统: [例如: iOS]
